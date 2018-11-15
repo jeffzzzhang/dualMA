@@ -2,8 +2,8 @@
 """
 Created on Tue Jun  6 09:37:37 2017
 双均线策略, double MA
-https://www.joinquant.com/post/1398?f=study&m=algorithm
-@author: LH
+reference https://www.joinquant.com/post/1398?f=study&m=algorithm
+@author: Jeff
 """
 import pandas as pd
 import numpy as np
